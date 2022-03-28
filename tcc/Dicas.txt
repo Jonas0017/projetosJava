@@ -1,0 +1,5 @@
+1) Aperte ctrl + a para selecionar tudo, depois, ctrl + c para copiar, 
+vai para sua area de trabalho ou pasta qualquer e cole apertando ctrl + v.
+
+2) Abra o arquivo TCC.jar, caso o programa não rode, execulte o JavaSetup8u66.exe, após a instalação do mesmo,
+abra o TCC.jar novamente.
